@@ -1,4 +1,4 @@
-package con.bethena.learn_algorithms;
+package com.bethena.learn_algorithms;
 
 public class MyArray {
 
