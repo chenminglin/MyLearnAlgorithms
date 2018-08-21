@@ -1,4 +1,4 @@
-package com.bethena.learn_algorithms;
+package com.bethena.learn_algorithms.sort;
 
 
 /**
